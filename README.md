@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Zsombi01
-- 👀 I’m interested in FiveM and LSPDFR
+- 👋 Hi, I’m @Zsomborszki
+- 👀 I’m interested in FiveM 
 - 🌱 I’m currently learning LUA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me discord: Zsombi#8865
+- 📫 How to reach me discord: zsomborsz
 
 
 <!---
-Zsombi01/Zsombi01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
